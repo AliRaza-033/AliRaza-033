@@ -7,7 +7,7 @@
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Full+Stack+Web+Developer;Secure+Backend+Builder;Java+%7C+C%2B%2B+Fundamentals;Learning+by+Building+Real+Systems&font=Fira%20Code&center=true&width=420&height=50&duration=3500&pause=900" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=Full+Stack+Web+Developer;Secure+Backend+Builder;Learning+by+Building+Real+Systems&font=Fira%20Code&center=true&width=420&height=50&duration=3500&pause=900" />
 </p>
 
 ---
