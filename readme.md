@@ -10,9 +10,9 @@
   <img src="https://readme-typing-svg.demolab.com/?lines=Full+Stack+Web+Developer;Secure+Backend+Builder;Learning+by+Building+Real+Systems&font=Fira%20Code&center=true&width=420&height=50&duration=3500&pause=900" />
 </p>
 
----
 
-## 🧭 About Me
+
+##  About Me
 
 I’m a **Software Engineering student** with a non-traditional background, focused on **building real systems**, not just learning syntax.
 
@@ -25,18 +25,18 @@ My long-term direction is building **secure, scalable web applications**, SaaS t
 - Learn how systems **fail**, not just how they work  
 - Build things that can **grow into real products**
 
----
 
-## 🎯 Current Focus
+
+## Current Focus
 
 - Building **full-stack web apps** with authentication, roles & real data flow  
 - Strengthening **Java OOP & C++ fundamentals** (academics + system thinking)  
 - Learning **backend security concepts** (auth flows, access control, data safety)  
 - Designing projects with **real-world scalability in mind**
 
----
 
-## 🧠 Tech Stack (What I Actually Use)
+
+##  Tech Stack (What I Actually Use)
 
 ### 🧩 Programming Languages
 <p align="center">
@@ -48,9 +48,9 @@ My long-term direction is building **secure, scalable web applications**, SaaS t
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original-wordmark.svg" width="42"/>
 </p>
 
----
 
-### 🎨 Frontend
+
+###  Frontend
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="42"/>
   <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" width="42"/>
@@ -59,7 +59,7 @@ My long-term direction is building **secure, scalable web applications**, SaaS t
   <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="42"/>
 </p>
 
----
+
 
 ### ⚙️ Backend
 <p align="center">
@@ -70,7 +70,7 @@ My long-term direction is building **secure, scalable web applications**, SaaS t
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original-wordmark.svg" width="45"/>
 </p>
 
----
+
 
 ### 🗄️ Databases & Caching
 <p align="center">
@@ -81,7 +81,7 @@ My long-term direction is building **secure, scalable web applications**, SaaS t
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azuresqldatabase/azuresqldatabase-original.svg" width="42"/>
 </p>
 
----
+
 
 ### ☁️ BaaS & Platforms
 <p align="center">
@@ -90,7 +90,7 @@ My long-term direction is building **secure, scalable web applications**, SaaS t
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-original.svg" width="42"/>
 </p>
 
----
+
 
 ### 🛠️ Tools & Workflow
 <p align="center">
@@ -101,7 +101,7 @@ My long-term direction is building **secure, scalable web applications**, SaaS t
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows11/windows11-original.svg" width="42"/>
 </p>
 
----
+
 
 ## 📊 GitHub Stats
 
@@ -113,7 +113,7 @@ My long-term direction is building **secure, scalable web applications**, SaaS t
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=AliRaza-033&theme=rogue&area=true" height="300"/>
 </p>
 
----
+
 
 ## 🌐 Connect With Me
 
@@ -129,13 +129,13 @@ My long-term direction is building **secure, scalable web applications**, SaaS t
   </a>
 </p>
 
----
 
-## 🧠 Philosophy
+
+##  Philosophy
 
 > *“Learn deeply. Build honestly. Secure what you create.”*
 
----
+
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&theme=cobalt"/>
