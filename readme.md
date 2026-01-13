@@ -30,7 +30,7 @@ My long-term direction is building **secure, scalable web applications**, SaaS t
 ## Current Focus
 
 - Building **full-stack web apps** with authentication, roles & real data flow  
-- Strengthening **Java OOP & C++ fundamentals** (academics + system thinking)  
+- Strengthening **Javascript** (academics + system thinking)  
 - Learning **backend security concepts** (auth flows, access control, data safety)  
 - Designing projects with **real-world scalability in mind**
 
